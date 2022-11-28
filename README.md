@@ -5,8 +5,8 @@
 - Fork and clone this starter code
 - Install your dependencies `npm install`
 - Open up your app in VS Code `code .`
-- In your VS Code integrated terminal run `npm start` to start your local sever
-- 
+- In your VS Code integrated terminal run `npm start` to start your local server
+
 
 ## About this Build
 
