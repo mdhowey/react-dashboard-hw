@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# React Dashboard Homework
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started
 
-## Available Scripts
+- Fork and clone this starter code
+- Install your dependencies `npm install`
+- Open up your app in VS Code `code .`
+- In your VS Code integrated terminal run `npm start` to start your local sever
+- 
 
-In the project directory, you can run:
+## About this Build
 
-### `npm start`
+You've been showing off your portfolio and projects to your friends, family and classmates and they all say "It's fine. I like it!" But you want more insight.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+So you decide to look into some analytical tools...but wow! They are expensive! You decide to make your own.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You visualize a dashboard with components for reviews, average rating, sentiment analysis and website visitors
 
-### `npm test`
+![https://i.imgur.com/5mCo2tV.png](https://i.imgur.com/5mCo2tV.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Try to recreate the wireframe above with React.
 
-### `npm run build`
+Be sure to create a handful of components!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- (e.g. app, sidebar, reviews, average rating, sentiment analysis, website visitors).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Hungry for More? 
+Explore some React+CSS: Add a Dark Theme!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Keep going! Add more details, add some css.
 
-### `npm run eject`
+What new sub-components might you now need?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![https://i.imgur.com/3kPnrAq.png](https://i.imgur.com/3kPnrAq.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Dashboard example found here: [https://medium.muz.li/30-handpicked-excellent-dashboards-347e2407a057](https://medium.muz.li/30-handpicked-excellent-dashboards-347e2407a057)
